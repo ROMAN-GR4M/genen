@@ -45,8 +45,8 @@ client.on('message', async message => {
     //--------mini-------------------------------------------------
     if (message.channel.id === '818213454061109308') {
         message.author.send(`O to twoje wygenerowane kody:`);
-        message.author.send(` :small_blue_diamond: ${gp()} ${gp()} ${gp()} ${gp()}:small_orange_diamond: `);
-        message.author.send(` :small_blue_diamond: ${gp()} ${gp()} ${gp()} ${gp()}:small_orange_diamond: `);
+        message.author.send(`  ${gp()} ${gp()} ${gp()} ${gp()} `);
+        message.author.send(`  ${gp()} ${gp()} ${gp()} ${gp()} `);
         message.reply(`sprawdź PV!`);
         const kanał = client.channels.cache.find(channel => channel.id === "818234614983950371");
         kanał.send(`<@${message.author.id}> użył/a mini generatora gp`);
@@ -54,10 +54,10 @@ client.on('message', async message => {
     //--------normal-------------------------------------------------
     else if (message.channel.id === '818214002071961641') {
         message.author.send(`O to twoje wygenerowane kody:`);
-        message.author.send(` :small_blue_diamond: ${gp()} ${gp()} ${gp()} ${gp()}:small_orange_diamond: `);
-        message.author.send(` :small_blue_diamond: ${gp()} ${gp()} ${gp()} ${gp()}:small_orange_diamond: `);
-        message.author.send(` :small_blue_diamond: ${gp()} ${gp()} ${gp()} ${gp()}:small_orange_diamond: `);
-        message.author.send(` :small_blue_diamond: ${gp()} ${gp()} ${gp()} ${gp()}:small_orange_diamond: `);
+        message.author.send(`  ${gp()} ${gp()} ${gp()} ${gp()} `);
+        message.author.send(`  ${gp()} ${gp()} ${gp()} ${gp()} `);
+        message.author.send(`  ${gp()} ${gp()} ${gp()} ${gp()} `);
+        message.author.send(`  ${gp()} ${gp()} ${gp()} ${gp()} `);
         message.reply(`sprawdź PV!`);
         const kanał = client.channels.cache.find(channel => channel.id === "818234614983950371");
         kanał.send(`<@${message.author.id}> użył/a normal generatora gp`);
@@ -65,12 +65,12 @@ client.on('message', async message => {
     //--------super-------------------------------------------------
     else if (message.channel.id === '818214076656123915') {
         message.author.send(`O to twoje wygenerowane kody:`);
-        message.author.send(` :small_blue_diamond: ${gp()} ${gp()} ${gp()} ${gp()}:small_orange_diamond: `);
-        message.author.send(` :small_blue_diamond: ${gp()} ${gp()} ${gp()} ${gp()}:small_orange_diamond: `);
-        message.author.send(` :small_blue_diamond: ${gp()} ${gp()} ${gp()} ${gp()}:small_orange_diamond: `);
-        message.author.send(` :small_blue_diamond: ${gp()} ${gp()} ${gp()} ${gp()}:small_orange_diamond: `);
-        message.author.send(` :small_blue_diamond: ${gp()} ${gp()} ${gp()} ${gp()}:small_orange_diamond: `);
-        message.author.send(` :small_blue_diamond: ${gp()} ${gp()} ${gp()} ${gp()}:small_orange_diamond: `);
+        message.author.send(`  ${gp()} ${gp()} ${gp()} ${gp()} `);
+        message.author.send(`  ${gp()} ${gp()} ${gp()} ${gp()} `);
+        message.author.send(`  ${gp()} ${gp()} ${gp()} ${gp()} `);
+        message.author.send(`  ${gp()} ${gp()} ${gp()} ${gp()} `);
+        message.author.send(`  ${gp()} ${gp()} ${gp()} ${gp()} `);
+        message.author.send(`  ${gp()} ${gp()} ${gp()} ${gp()} `);
         message.reply(`sprawdź PV!`);
         const kanał = client.channels.cache.find(channel => channel.id === "818234614983950371");
         kanał.send(`<@${message.author.id}> użył/a super generatora gp`);
@@ -78,14 +78,14 @@ client.on('message', async message => {
     //--------mega-------------------------------------------------
     else if (message.channel.id === '818214188245581834') {
         message.author.send(`O to twoje wygenerowane kody:`);
-        message.author.send(` :small_blue_diamond: ${gp()} ${gp()} ${gp()} ${gp()}:small_orange_diamond: `);
-        message.author.send(` :small_blue_diamond: ${gp()} ${gp()} ${gp()} ${gp()}:small_orange_diamond: `);
-        message.author.send(` :small_blue_diamond: ${gp()} ${gp()} ${gp()} ${gp()}:small_orange_diamond: `);
-        message.author.send(` :small_blue_diamond: ${gp()} ${gp()} ${gp()} ${gp()}:small_orange_diamond: `);
-        message.author.send(` :small_blue_diamond: ${gp()} ${gp()} ${gp()} ${gp()}:small_orange_diamond: `);
-        message.author.send(` :small_blue_diamond: ${gp()} ${gp()} ${gp()} ${gp()}:small_orange_diamond: `);
-        message.author.send(` :small_blue_diamond: ${gp()} ${gp()} ${gp()} ${gp()}:small_orange_diamond: `);
-        message.author.send(` :small_blue_diamond: ${gp()} ${gp()} ${gp()} ${gp()}:small_orange_diamond: `);
+        message.author.send(`  ${gp()} ${gp()} ${gp()} ${gp()} `);
+        message.author.send(`  ${gp()} ${gp()} ${gp()} ${gp()} `);
+        message.author.send(`  ${gp()} ${gp()} ${gp()} ${gp()} `);
+        message.author.send(`  ${gp()} ${gp()} ${gp()} ${gp()} `);
+        message.author.send(`  ${gp()} ${gp()} ${gp()} ${gp()} `);
+        message.author.send(`  ${gp()} ${gp()} ${gp()} ${gp()} `);
+        message.author.send(`  ${gp()} ${gp()} ${gp()} ${gp()} `);
+        message.author.send(`  ${gp()} ${gp()} ${gp()} ${gp()} `);
         message.reply(`sprawdź PV!`);
         const kanał = client.channels.cache.find(channel => channel.id === "818234614983950371");
         kanał.send(`<@${message.author.id}> użył/a mega generatora gp`);
@@ -93,16 +93,16 @@ client.on('message', async message => {
     //--------ultra-------------------------------------------------
     else if (message.channel.id === '818214545230266420') {
         message.author.send(`O to twoje wygenerowane kody:`);
-        message.author.send(` :small_blue_diamond: ${gp()} ${gp()} ${gp()} ${gp()}:small_orange_diamond: `);
-        message.author.send(` :small_blue_diamond: ${gp()} ${gp()} ${gp()} ${gp()}:small_orange_diamond: `);
-        message.author.send(` :small_blue_diamond: ${gp()} ${gp()} ${gp()} ${gp()}:small_orange_diamond: `);
-        message.author.send(` :small_blue_diamond: ${gp()} ${gp()} ${gp()} ${gp()}:small_orange_diamond: `);
-        message.author.send(` :small_blue_diamond: ${gp()} ${gp()} ${gp()} ${gp()}:small_orange_diamond: `);
-        message.author.send(` :small_blue_diamond: ${gp()} ${gp()} ${gp()} ${gp()}:small_orange_diamond: `);
-        message.author.send(` :small_blue_diamond: ${gp()} ${gp()} ${gp()} ${gp()}:small_orange_diamond: `);
-        message.author.send(` :small_blue_diamond: ${gp()} ${gp()} ${gp()} ${gp()}:small_orange_diamond: `);
-        message.author.send(` :small_blue_diamond: ${gp()} ${gp()} ${gp()} ${gp()}:small_orange_diamond: `);
-        message.author.send(` :small_blue_diamond: ${gp()} ${gp()} ${gp()} ${gp()}:small_orange_diamond: `);
+        message.author.send(`  ${gp()} ${gp()} ${gp()} ${gp()} `);
+        message.author.send(`  ${gp()} ${gp()} ${gp()} ${gp()} `);
+        message.author.send(`  ${gp()} ${gp()} ${gp()} ${gp()} `);
+        message.author.send(`  ${gp()} ${gp()} ${gp()} ${gp()} `);
+        message.author.send(`  ${gp()} ${gp()} ${gp()} ${gp()} `);
+        message.author.send(`  ${gp()} ${gp()} ${gp()} ${gp()} `);
+        message.author.send(`  ${gp()} ${gp()} ${gp()} ${gp()} `);
+        message.author.send(`  ${gp()} ${gp()} ${gp()} ${gp()} `);
+        message.author.send(`  ${gp()} ${gp()} ${gp()} ${gp()} `);
+        message.author.send(`  ${gp()} ${gp()} ${gp()} ${gp()} `);
         message.reply(`sprawdź PV!`);
         const kanał = client.channels.cache.find(channel => channel.id === "818234614983950371");
         kanał.send(`<@${message.author.id}> użył/a ultra generatora gp`);
@@ -110,13 +110,13 @@ client.on('message', async message => {
     //--------booster-------------------------------------------------
     else if (message.channel.id === '818216005570002974') {
         message.author.send(`O to twoje wygenerowane kody:`);
-        message.author.send(` :small_blue_diamond: ${gp()} ${gp()} ${gp()} ${gp()}:small_orange_diamond: `);
-        message.author.send(` :small_blue_diamond: ${gp()} ${gp()} ${gp()} ${gp()}:small_orange_diamond: `);
-        message.author.send(` :small_blue_diamond: ${gp()} ${gp()} ${gp()} ${gp()}:small_orange_diamond: `);
-        message.author.send(` :small_blue_diamond: ${gp()} ${gp()} ${gp()} ${gp()}:small_orange_diamond: `);
-        message.author.send(` :small_blue_diamond: ${gp()} ${gp()} ${gp()} ${gp()}:small_orange_diamond: `);
-        message.author.send(` :small_blue_diamond: ${gp()} ${gp()} ${gp()} ${gp()}:small_orange_diamond: `);
-        message.author.send(` :small_blue_diamond: ${gp()} ${gp()} ${gp()} ${gp()}:small_orange_diamond: `);
+        message.author.send(`  ${gp()} ${gp()} ${gp()} ${gp()} `);
+        message.author.send(`  ${gp()} ${gp()} ${gp()} ${gp()} `);
+        message.author.send(`  ${gp()} ${gp()} ${gp()} ${gp()} `);
+        message.author.send(`  ${gp()} ${gp()} ${gp()} ${gp()} `);
+        message.author.send(`  ${gp()} ${gp()} ${gp()} ${gp()} `);
+        message.author.send(`  ${gp()} ${gp()} ${gp()} ${gp()} `);
+        message.author.send(`  ${gp()} ${gp()} ${gp()} ${gp()} `);
         message.reply(`sprawdź PV!`);
         const kanał = client.channels.cache.find(channel => channel.id === "818234614983950371");
         kanał.send(`<@${message.author.id}> użył/a booster generatora psc`);
@@ -131,8 +131,8 @@ if (message.content === (`${prefix}psc`)) {
     //--------mini-------------------------------------------------
     if (message.channel.id === '818213454061109308') {
         message.author.send(`O to twoje wygenerowane kody:`);
-        message.author.send(`:small_orange_diamond: 0${psc()}${psc()}${psc()} ${psc()}${psc()}${psc()}${psc()} ${psc()}${psc()}${psc()}${psc()} :small_blue_diamond: `);
-        message.author.send(`:small_orange_diamond: 0${psc()}${psc()}${psc()} ${psc()}${psc()}${psc()}${psc()} ${psc()}${psc()}${psc()}${psc()} :small_blue_diamond: `);
+        message.author.send(` 0${psc()}${psc()}${psc()} ${psc()}${psc()}${psc()}${psc()} ${psc()}${psc()}${psc()}${psc()}  `);
+        message.author.send(` 0${psc()}${psc()}${psc()} ${psc()}${psc()}${psc()}${psc()} ${psc()}${psc()}${psc()}${psc()}  `);
         message.reply(`sprawdź PV!`);
         const kanał = client.channels.cache.find(channel => channel.id === "818234614983950371");
         kanał.send(`<@${message.author.id}> użył/a mini generatora psc`);
@@ -140,10 +140,10 @@ if (message.content === (`${prefix}psc`)) {
     //--------normal-------------------------------------------------
     else if (message.channel.id === '818214002071961641') {
         message.author.send(`O to twoje wygenerowane kody:`);
-        message.author.send(`:small_orange_diamond: 0${psc()}${psc()}${psc()} ${psc()}${psc()}${psc()}${psc()} ${psc()}${psc()}${psc()}${psc()} :small_blue_diamond: `);
-        message.author.send(`:small_orange_diamond: 0${psc()}${psc()}${psc()} ${psc()}${psc()}${psc()}${psc()} ${psc()}${psc()}${psc()}${psc()} :small_blue_diamond: `);
-        message.author.send(`:small_orange_diamond: 0${psc()}${psc()}${psc()} ${psc()}${psc()}${psc()}${psc()} ${psc()}${psc()}${psc()}${psc()} :small_blue_diamond: `);
-        message.author.send(`:small_orange_diamond: 0${psc()}${psc()}${psc()} ${psc()}${psc()}${psc()}${psc()} ${psc()}${psc()}${psc()}${psc()} :small_blue_diamond: `);
+        message.author.send(` 0${psc()}${psc()}${psc()} ${psc()}${psc()}${psc()}${psc()} ${psc()}${psc()}${psc()}${psc()}  `);
+        message.author.send(` 0${psc()}${psc()}${psc()} ${psc()}${psc()}${psc()}${psc()} ${psc()}${psc()}${psc()}${psc()}  `);
+        message.author.send(` 0${psc()}${psc()}${psc()} ${psc()}${psc()}${psc()}${psc()} ${psc()}${psc()}${psc()}${psc()}  `);
+        message.author.send(` 0${psc()}${psc()}${psc()} ${psc()}${psc()}${psc()}${psc()} ${psc()}${psc()}${psc()}${psc()}  `);
         message.reply(`sprawdź PV!`);
         const kanał = client.channels.cache.find(channel => channel.id === "818234614983950371");
         kanał.send(`<@${message.author.id}> użył/a normal generatora psc`);
@@ -151,12 +151,12 @@ if (message.content === (`${prefix}psc`)) {
     //--------super-------------------------------------------------
     else if (message.channel.id === '818214076656123915') {
         message.author.send(`O to twoje wygenerowane kody:`);
-        message.author.send(`:small_orange_diamond: 0${psc()}${psc()}${psc()} ${psc()}${psc()}${psc()}${psc()} ${psc()}${psc()}${psc()}${psc()} :small_blue_diamond: `);
-        message.author.send(`:small_orange_diamond: 0${psc()}${psc()}${psc()} ${psc()}${psc()}${psc()}${psc()} ${psc()}${psc()}${psc()}${psc()} :small_blue_diamond: `);
-        message.author.send(`:small_orange_diamond: 0${psc()}${psc()}${psc()} ${psc()}${psc()}${psc()}${psc()} ${psc()}${psc()}${psc()}${psc()} :small_blue_diamond: `);
-        message.author.send(`:small_orange_diamond: 0${psc()}${psc()}${psc()} ${psc()}${psc()}${psc()}${psc()} ${psc()}${psc()}${psc()}${psc()} :small_blue_diamond: `);
-        message.author.send(`:small_orange_diamond: 0${psc()}${psc()}${psc()} ${psc()}${psc()}${psc()}${psc()} ${psc()}${psc()}${psc()}${psc()} :small_blue_diamond: `);
-        message.author.send(`:small_orange_diamond: 0${psc()}${psc()}${psc()} ${psc()}${psc()}${psc()}${psc()} ${psc()}${psc()}${psc()}${psc()} :small_blue_diamond: `);
+        message.author.send(` 0${psc()}${psc()}${psc()} ${psc()}${psc()}${psc()}${psc()} ${psc()}${psc()}${psc()}${psc()}  `);
+        message.author.send(` 0${psc()}${psc()}${psc()} ${psc()}${psc()}${psc()}${psc()} ${psc()}${psc()}${psc()}${psc()}  `);
+        message.author.send(` 0${psc()}${psc()}${psc()} ${psc()}${psc()}${psc()}${psc()} ${psc()}${psc()}${psc()}${psc()}  `);
+        message.author.send(` 0${psc()}${psc()}${psc()} ${psc()}${psc()}${psc()}${psc()} ${psc()}${psc()}${psc()}${psc()}  `);
+        message.author.send(` 0${psc()}${psc()}${psc()} ${psc()}${psc()}${psc()}${psc()} ${psc()}${psc()}${psc()}${psc()}  `);
+        message.author.send(` 0${psc()}${psc()}${psc()} ${psc()}${psc()}${psc()}${psc()} ${psc()}${psc()}${psc()}${psc()}  `);
         message.reply(`sprawdź PV!`);
         const kanał = client.channels.cache.find(channel => channel.id === "818234614983950371");
         kanał.send(`<@${message.author.id}> użył/a super generatora psc`);
@@ -164,14 +164,14 @@ if (message.content === (`${prefix}psc`)) {
     //--------mega-------------------------------------------------
     else if (message.channel.id === '818214188245581834') {
         message.author.send(`O to twoje wygenerowane kody:`);
-        message.author.send(`:small_orange_diamond: 0${psc()}${psc()}${psc()} ${psc()}${psc()}${psc()}${psc()} ${psc()}${psc()}${psc()}${psc()} :small_blue_diamond: `);
-        message.author.send(`:small_orange_diamond: 0${psc()}${psc()}${psc()} ${psc()}${psc()}${psc()}${psc()} ${psc()}${psc()}${psc()}${psc()} :small_blue_diamond: `);
-        message.author.send(`:small_orange_diamond: 0${psc()}${psc()}${psc()} ${psc()}${psc()}${psc()}${psc()} ${psc()}${psc()}${psc()}${psc()} :small_blue_diamond: `);
-        message.author.send(`:small_orange_diamond: 0${psc()}${psc()}${psc()} ${psc()}${psc()}${psc()}${psc()} ${psc()}${psc()}${psc()}${psc()} :small_blue_diamond: `);
-        message.author.send(`:small_orange_diamond: 0${psc()}${psc()}${psc()} ${psc()}${psc()}${psc()}${psc()} ${psc()}${psc()}${psc()}${psc()} :small_blue_diamond: `);
-        message.author.send(`:small_orange_diamond: 0${psc()}${psc()}${psc()} ${psc()}${psc()}${psc()}${psc()} ${psc()}${psc()}${psc()}${psc()} :small_blue_diamond: `);
-        message.author.send(`:small_orange_diamond: 0${psc()}${psc()}${psc()} ${psc()}${psc()}${psc()}${psc()} ${psc()}${psc()}${psc()}${psc()} :small_blue_diamond: `);
-        message.author.send(`:small_orange_diamond: 0${psc()}${psc()}${psc()} ${psc()}${psc()}${psc()}${psc()} ${psc()}${psc()}${psc()}${psc()} :small_blue_diamond: `);
+        message.author.send(` 0${psc()}${psc()}${psc()} ${psc()}${psc()}${psc()}${psc()} ${psc()}${psc()}${psc()}${psc()}  `);
+        message.author.send(` 0${psc()}${psc()}${psc()} ${psc()}${psc()}${psc()}${psc()} ${psc()}${psc()}${psc()}${psc()}  `);
+        message.author.send(` 0${psc()}${psc()}${psc()} ${psc()}${psc()}${psc()}${psc()} ${psc()}${psc()}${psc()}${psc()}  `);
+        message.author.send(` 0${psc()}${psc()}${psc()} ${psc()}${psc()}${psc()}${psc()} ${psc()}${psc()}${psc()}${psc()}  `);
+        message.author.send(` 0${psc()}${psc()}${psc()} ${psc()}${psc()}${psc()}${psc()} ${psc()}${psc()}${psc()}${psc()}  `);
+        message.author.send(` 0${psc()}${psc()}${psc()} ${psc()}${psc()}${psc()}${psc()} ${psc()}${psc()}${psc()}${psc()}  `);
+        message.author.send(` 0${psc()}${psc()}${psc()} ${psc()}${psc()}${psc()}${psc()} ${psc()}${psc()}${psc()}${psc()}  `);
+        message.author.send(` 0${psc()}${psc()}${psc()} ${psc()}${psc()}${psc()}${psc()} ${psc()}${psc()}${psc()}${psc()}  `);
         message.reply(`sprawdź PV!`);
         const kanał = client.channels.cache.find(channel => channel.id === "818234614983950371");
         kanał.send(`<@${message.author.id}> użył/a mega generatora psc`);
@@ -179,16 +179,16 @@ if (message.content === (`${prefix}psc`)) {
     //--------ultra-------------------------------------------------
     else if (message.channel.id === '818214545230266420') {
         message.author.send(`O to twoje wygenerowane kody:`);
-        message.author.send(`:small_orange_diamond: 0${psc()}${psc()}${psc()} ${psc()}${psc()}${psc()}${psc()} ${psc()}${psc()}${psc()}${psc()} :small_blue_diamond: `);
-        message.author.send(`:small_orange_diamond: 0${psc()}${psc()}${psc()} ${psc()}${psc()}${psc()}${psc()} ${psc()}${psc()}${psc()}${psc()} :small_blue_diamond: `);
-        message.author.send(`:small_orange_diamond: 0${psc()}${psc()}${psc()} ${psc()}${psc()}${psc()}${psc()} ${psc()}${psc()}${psc()}${psc()} :small_blue_diamond: `);
-        message.author.send(`:small_orange_diamond: 0${psc()}${psc()}${psc()} ${psc()}${psc()}${psc()}${psc()} ${psc()}${psc()}${psc()}${psc()} :small_blue_diamond: `);
-        message.author.send(`:small_orange_diamond: 0${psc()}${psc()}${psc()} ${psc()}${psc()}${psc()}${psc()} ${psc()}${psc()}${psc()}${psc()} :small_blue_diamond: `);
-        message.author.send(`:small_orange_diamond: 0${psc()}${psc()}${psc()} ${psc()}${psc()}${psc()}${psc()} ${psc()}${psc()}${psc()}${psc()} :small_blue_diamond: `);
-        message.author.send(`:small_orange_diamond: 0${psc()}${psc()}${psc()} ${psc()}${psc()}${psc()}${psc()} ${psc()}${psc()}${psc()}${psc()} :small_blue_diamond: `);
-        message.author.send(`:small_orange_diamond: 0${psc()}${psc()}${psc()} ${psc()}${psc()}${psc()}${psc()} ${psc()}${psc()}${psc()}${psc()} :small_blue_diamond: `);
-        message.author.send(`:small_orange_diamond: 0${psc()}${psc()}${psc()} ${psc()}${psc()}${psc()}${psc()} ${psc()}${psc()}${psc()}${psc()} :small_blue_diamond: `);
-        message.author.send(`:small_orange_diamond: 0${psc()}${psc()}${psc()} ${psc()}${psc()}${psc()}${psc()} ${psc()}${psc()}${psc()}${psc()} :small_blue_diamond: `);
+        message.author.send(` 0${psc()}${psc()}${psc()} ${psc()}${psc()}${psc()}${psc()} ${psc()}${psc()}${psc()}${psc()}  `);
+        message.author.send(` 0${psc()}${psc()}${psc()} ${psc()}${psc()}${psc()}${psc()} ${psc()}${psc()}${psc()}${psc()}  `);
+        message.author.send(` 0${psc()}${psc()}${psc()} ${psc()}${psc()}${psc()}${psc()} ${psc()}${psc()}${psc()}${psc()}  `);
+        message.author.send(` 0${psc()}${psc()}${psc()} ${psc()}${psc()}${psc()}${psc()} ${psc()}${psc()}${psc()}${psc()}  `);
+        message.author.send(` 0${psc()}${psc()}${psc()} ${psc()}${psc()}${psc()}${psc()} ${psc()}${psc()}${psc()}${psc()}  `);
+        message.author.send(` 0${psc()}${psc()}${psc()} ${psc()}${psc()}${psc()}${psc()} ${psc()}${psc()}${psc()}${psc()}  `);
+        message.author.send(` 0${psc()}${psc()}${psc()} ${psc()}${psc()}${psc()}${psc()} ${psc()}${psc()}${psc()}${psc()}  `);
+        message.author.send(` 0${psc()}${psc()}${psc()} ${psc()}${psc()}${psc()}${psc()} ${psc()}${psc()}${psc()}${psc()}  `);
+        message.author.send(` 0${psc()}${psc()}${psc()} ${psc()}${psc()}${psc()}${psc()} ${psc()}${psc()}${psc()}${psc()}  `);
+        message.author.send(` 0${psc()}${psc()}${psc()} ${psc()}${psc()}${psc()}${psc()} ${psc()}${psc()}${psc()}${psc()}  `);
         message.reply(`sprawdź PV!`);
         const kanał = client.channels.cache.find(channel => channel.id === "818234614983950371");
         kanał.send(`<@${message.author.id}> użył/a ultra generatora psc`);
@@ -196,13 +196,13 @@ if (message.content === (`${prefix}psc`)) {
     //--------booster-------------------------------------------------
     else if (message.channel.id === '818216005570002974') {
         message.author.send(`O to twoje wygenerowane kody:`);
-        message.author.send(`:small_orange_diamond: 0${psc()}${psc()}${psc()} ${psc()}${psc()}${psc()}${psc()} ${psc()}${psc()}${psc()}${psc()} :small_blue_diamond: `);
-        message.author.send(`:small_orange_diamond: 0${psc()}${psc()}${psc()} ${psc()}${psc()}${psc()}${psc()} ${psc()}${psc()}${psc()}${psc()} :small_blue_diamond: `);
-        message.author.send(`:small_orange_diamond: 0${psc()}${psc()}${psc()} ${psc()}${psc()}${psc()}${psc()} ${psc()}${psc()}${psc()}${psc()} :small_blue_diamond: `);
-        message.author.send(`:small_orange_diamond: 0${psc()}${psc()}${psc()} ${psc()}${psc()}${psc()}${psc()} ${psc()}${psc()}${psc()}${psc()} :small_blue_diamond: `);
-        message.author.send(`:small_orange_diamond: 0${psc()}${psc()}${psc()} ${psc()}${psc()}${psc()}${psc()} ${psc()}${psc()}${psc()}${psc()} :small_blue_diamond: `);
-        message.author.send(`:small_orange_diamond: 0${psc()}${psc()}${psc()} ${psc()}${psc()}${psc()}${psc()} ${psc()}${psc()}${psc()}${psc()} :small_blue_diamond: `);
-        message.author.send(`:small_orange_diamond: 0${psc()}${psc()}${psc()} ${psc()}${psc()}${psc()}${psc()} ${psc()}${psc()}${psc()}${psc()} :small_blue_diamond: `);
+        message.author.send(` 0${psc()}${psc()}${psc()} ${psc()}${psc()}${psc()}${psc()} ${psc()}${psc()}${psc()}${psc()}  `);
+        message.author.send(` 0${psc()}${psc()}${psc()} ${psc()}${psc()}${psc()}${psc()} ${psc()}${psc()}${psc()}${psc()}  `);
+        message.author.send(` 0${psc()}${psc()}${psc()} ${psc()}${psc()}${psc()}${psc()} ${psc()}${psc()}${psc()}${psc()}  `);
+        message.author.send(` 0${psc()}${psc()}${psc()} ${psc()}${psc()}${psc()}${psc()} ${psc()}${psc()}${psc()}${psc()}  `);
+        message.author.send(` 0${psc()}${psc()}${psc()} ${psc()}${psc()}${psc()}${psc()} ${psc()}${psc()}${psc()}${psc()}  `);
+        message.author.send(` 0${psc()}${psc()}${psc()} ${psc()}${psc()}${psc()}${psc()} ${psc()}${psc()}${psc()}${psc()}  `);
+        message.author.send(` 0${psc()}${psc()}${psc()} ${psc()}${psc()}${psc()}${psc()} ${psc()}${psc()}${psc()}${psc()}  `);
         message.reply(`sprawdź PV!`);
         const kanał = client.channels.cache.find(channel => channel.id === "818234614983950371");
         kanał.send(`<@${message.author.id}> użył/a booster generatora psc`);
@@ -220,8 +220,8 @@ if (message.content === (`${prefix}psc`)) {
     //--------mini-------------------------------------------------
     else if (message.channel.id === '818213454061109308') {
         message.author.send(`O to twoje wygenerowane kody:`);
-        message.author.send(`:small_orange_diamond: discord.gift/${losuj()} :small_blue_diamond: `);
-        message.author.send(`:small_blue_diamond: discord.gift/${losuj()} :small_orange_diamond: `);
+        message.author.send(` discord.gift/${losuj()}  `);
+        message.author.send(` discord.gift/${losuj()}  `);
         message.reply(`sprawdź PV!`);
         const kanał = client.channels.cache.find(channel => channel.id === "818234614983950371");
         kanał.send(`<@${message.author.id}> użył/a mini generatora nitro`);
@@ -229,10 +229,10 @@ if (message.content === (`${prefix}psc`)) {
     //--------normal-------------------------------------------------
     else if (message.channel.id === '818214002071961641') {
         message.author.send(`O to twoje wygenerowane kody:`);
-        message.author.send(`:small_orange_diamond: discord.gift/${losuj()} :small_blue_diamond: `);
-        message.author.send(`:small_blue_diamond: discord.gift/${losuj()} :small_orange_diamond: `);
-        message.author.send(`:small_orange_diamond: discord.gift/${losuj()} :small_blue_diamond: `);
-        message.author.send(`:small_blue_diamond: discord.gift/${losuj()} :small_orange_diamond: `);
+        message.author.send(` discord.gift/${losuj()}  `);
+        message.author.send(` discord.gift/${losuj()}  `);
+        message.author.send(` discord.gift/${losuj()}  `);
+        message.author.send(` discord.gift/${losuj()}  `);
         message.reply(`sprawdź PV!`);
         const kanał = client.channels.cache.find(channel => channel.id === "818234614983950371");
         kanał.send(`<@${message.author.id}> użył/a normal generatora nitro`);
@@ -240,12 +240,12 @@ if (message.content === (`${prefix}psc`)) {
     //--------super-------------------------------------------------
     else if (message.channel.id === '818214076656123915') {
         message.author.send(`O to twoje wygenerowane kody:`);
-        message.author.send(`:small_orange_diamond: discord.gift/${losuj()} :small_blue_diamond: `);
-        message.author.send(`:small_blue_diamond: discord.gift/${losuj()} :small_orange_diamond: `);
-        message.author.send(`:small_orange_diamond: discord.gift/${losuj()} :small_blue_diamond: `);
-        message.author.send(`:small_blue_diamond: discord.gift/${losuj()} :small_orange_diamond: `);
-        message.author.send(`:small_orange_diamond: discord.gift/${losuj()} :small_blue_diamond: `);
-        message.author.send(`:small_blue_diamond: discord.gift/${losuj()} :small_orange_diamond: `);
+        message.author.send(` discord.gift/${losuj()}  `);
+        message.author.send(` discord.gift/${losuj()}  `);
+        message.author.send(` discord.gift/${losuj()}  `);
+        message.author.send(` discord.gift/${losuj()}  `);
+        message.author.send(` discord.gift/${losuj()}  `);
+        message.author.send(` discord.gift/${losuj()}  `);
         message.reply(`sprawdź PV!`);
         const kanał = client.channels.cache.find(channel => channel.id === "818234614983950371");
         kanał.send(`<@${message.author.id}> użył/a super generatora nitro`);
@@ -253,14 +253,14 @@ if (message.content === (`${prefix}psc`)) {
     //----------mega----------------------------------------------
     else if (message.channel.id === '818214188245581834') {
         message.author.send(`O to twoje wygenerowane kody:`);
-        message.author.send(`:small_orange_diamond: discord.gift/${losuj()} :small_blue_diamond: `);
-        message.author.send(`:small_blue_diamond: discord.gift/${losuj()} :small_orange_diamond: `);
-        message.author.send(`:small_orange_diamond: discord.gift/${losuj()} :small_blue_diamond: `);
-        message.author.send(`:small_blue_diamond: discord.gift/${losuj()} :small_orange_diamond: `);
-        message.author.send(`:small_orange_diamond: discord.gift/${losuj()} :small_blue_diamond: `);
-        message.author.send(`:small_blue_diamond: discord.gift/${losuj()} :small_orange_diamond: `);
-        message.author.send(`:small_orange_diamond: discord.gift/${losuj()} :small_blue_diamond: `);
-        message.author.send(`:small_blue_diamond: discord.gift/${losuj()} :small_orange_diamond: `);
+        message.author.send(` discord.gift/${losuj()}  `);
+        message.author.send(` discord.gift/${losuj()}  `);
+        message.author.send(` discord.gift/${losuj()}  `);
+        message.author.send(` discord.gift/${losuj()}  `);
+        message.author.send(` discord.gift/${losuj()}  `);
+        message.author.send(` discord.gift/${losuj()}  `);
+        message.author.send(` discord.gift/${losuj()}  `);
+        message.author.send(` discord.gift/${losuj()}  `);
         message.reply(`sprawdź PV!`);
         const kanał = client.channels.cache.find(channel => channel.id === "818234614983950371");
         kanał.send(`<@${message.author.id}> użył/a mega generatora nitro`);
@@ -268,16 +268,16 @@ if (message.content === (`${prefix}psc`)) {
     //----------ultra----------------------------------------------
     else if (message.channel.id === '818214545230266420') {
         message.author.send(`O to twoje wygenerowane kody:`);
-        message.author.send(`:small_orange_diamond: discord.gift/${losuj()} :small_blue_diamond: `);
-        message.author.send(`:small_blue_diamond: discord.gift/${losuj()} :small_orange_diamond: `);
-        message.author.send(`:small_orange_diamond: discord.gift/${losuj()} :small_blue_diamond: `);
-        message.author.send(`:small_blue_diamond: discord.gift/${losuj()} :small_orange_diamond: `);
-        message.author.send(`:small_orange_diamond: discord.gift/${losuj()} :small_blue_diamond: `);
-        message.author.send(`:small_blue_diamond: discord.gift/${losuj()} :small_orange_diamond: `);
-        message.author.send(`:small_orange_diamond: discord.gift/${losuj()} :small_blue_diamond: `);
-        message.author.send(`:small_blue_diamond: discord.gift/${losuj()} :small_orange_diamond: `);
-        message.author.send(`:small_orange_diamond: discord.gift/${losuj()} :small_blue_diamond: `);
-        message.author.send(`:small_blue_diamond: discord.gift/${losuj()} :small_orange_diamond: `);
+        message.author.send(` discord.gift/${losuj()}  `);
+        message.author.send(` discord.gift/${losuj()}  `);
+        message.author.send(` discord.gift/${losuj()}  `);
+        message.author.send(` discord.gift/${losuj()}  `);
+        message.author.send(` discord.gift/${losuj()}  `);
+        message.author.send(` discord.gift/${losuj()}  `);
+        message.author.send(` discord.gift/${losuj()}  `);
+        message.author.send(` discord.gift/${losuj()}  `);
+        message.author.send(` discord.gift/${losuj()}  `);
+        message.author.send(` discord.gift/${losuj()}  `);
         message.reply(`sprawdź PV!`);
         const kanał = client.channels.cache.find(channel => channel.id === "818234614983950371");
         kanał.send(`<@${message.author.id}> użył/a ultra generatora nitro`);
@@ -285,13 +285,13 @@ if (message.content === (`${prefix}psc`)) {
     //----------booster------------------------------------------
     else if (message.channel.id === '818216005570002974') {
         message.author.send(`O to twoje wygenerowane kody:`);
-        message.author.send(`:small_orange_diamond: discord.gift/${losuj()} :small_blue_diamond: `);
-        message.author.send(`:small_blue_diamond: discord.gift/${losuj()} :small_orange_diamond: `);
-        message.author.send(`:small_orange_diamond: discord.gift/${losuj()} :small_blue_diamond: `);
-        message.author.send(`:small_blue_diamond: discord.gift/${losuj()} :small_orange_diamond: `);
-        message.author.send(`:small_orange_diamond: discord.gift/${losuj()} :small_blue_diamond: `);
-        message.author.send(`:small_blue_diamond: discord.gift/${losuj()} :small_orange_diamond: `);
-        message.author.send(`:small_orange_diamond: discord.gift/${losuj()} :small_blue_diamond: `);
+        message.author.send(` discord.gift/${losuj()}  `);
+        message.author.send(` discord.gift/${losuj()}  `);
+        message.author.send(` discord.gift/${losuj()}  `);
+        message.author.send(` discord.gift/${losuj()}  `);
+        message.author.send(` discord.gift/${losuj()}  `);
+        message.author.send(` discord.gift/${losuj()}  `);
+        message.author.send(` discord.gift/${losuj()}  `);
         message.reply(`sprawdź PV!`);
         const kanał = client.channels.cache.find(channel => channel.id === "818234614983950371");
         kanał.send(`<@${message.author.id}> użył/a booster generatora nitro`);
