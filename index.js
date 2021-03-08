@@ -131,8 +131,8 @@ if (message.content === (`${prefix}psc`)) {
     //--------mini-------------------------------------------------
     if (message.channel.id === '818213454061109308') {
         message.author.send(`O to twoje wygenerowane kody:`);
-        message.author.send(` 0${psc()}${psc()}${psc()} ${psc()}${psc()}${psc()}${psc()} ${psc()}${psc()}${psc()}${psc()}  `);
-        message.author.send(` 0${psc()}${psc()}${psc()} ${psc()}${psc()}${psc()}${psc()} ${psc()}${psc()}${psc()}${psc()}  `);
+        message.author.send(` 0${psc()}${psc()}${psc()} ${psc()}${psc()}${psc()}${psc()} ${psc()}${psc()}${psc()}${psc()}${psc()}${psc()}${psc()}${psc()}  `);
+        message.author.send(` 0${psc()}${psc()}${psc()} ${psc()}${psc()}${psc()}${psc()} ${psc()}${psc()}${psc()}${psc()}${psc()}${psc()}${psc()}${psc()}  `);
         message.reply(`sprawdź PV!`);
         const kanał = client.channels.cache.find(channel => channel.id === "818234614983950371");
         kanał.send(`<@${message.author.id}> użył/a mini generatora psc`);
@@ -140,10 +140,10 @@ if (message.content === (`${prefix}psc`)) {
     //--------normal-------------------------------------------------
     else if (message.channel.id === '818214002071961641') {
         message.author.send(`O to twoje wygenerowane kody:`);
-        message.author.send(` 0${psc()}${psc()}${psc()} ${psc()}${psc()}${psc()}${psc()} ${psc()}${psc()}${psc()}${psc()}  `);
-        message.author.send(` 0${psc()}${psc()}${psc()} ${psc()}${psc()}${psc()}${psc()} ${psc()}${psc()}${psc()}${psc()}  `);
-        message.author.send(` 0${psc()}${psc()}${psc()} ${psc()}${psc()}${psc()}${psc()} ${psc()}${psc()}${psc()}${psc()}  `);
-        message.author.send(` 0${psc()}${psc()}${psc()} ${psc()}${psc()}${psc()}${psc()} ${psc()}${psc()}${psc()}${psc()}  `);
+        message.author.send(` 0${psc()}${psc()}${psc()} ${psc()}${psc()}${psc()}${psc()} ${psc()}${psc()}${psc()}${psc()}${psc()}${psc()}${psc()}${psc()}  `);
+        message.author.send(` 0${psc()}${psc()}${psc()} ${psc()}${psc()}${psc()}${psc()} ${psc()}${psc()}${psc()}${psc()}${psc()}${psc()}${psc()}${psc()}  `);
+        message.author.send(` 0${psc()}${psc()}${psc()} ${psc()}${psc()}${psc()}${psc()} ${psc()}${psc()}${psc()}${psc()}${psc()}${psc()}${psc()}${psc()}  `);
+        message.author.send(` 0${psc()}${psc()}${psc()} ${psc()}${psc()}${psc()}${psc()} ${psc()}${psc()}${psc()}${psc()}${psc()}${psc()}${psc()}${psc()}  `);
         message.reply(`sprawdź PV!`);
         const kanał = client.channels.cache.find(channel => channel.id === "818234614983950371");
         kanał.send(`<@${message.author.id}> użył/a normal generatora psc`);
@@ -151,12 +151,12 @@ if (message.content === (`${prefix}psc`)) {
     //--------super-------------------------------------------------
     else if (message.channel.id === '818214076656123915') {
         message.author.send(`O to twoje wygenerowane kody:`);
-        message.author.send(` 0${psc()}${psc()}${psc()} ${psc()}${psc()}${psc()}${psc()} ${psc()}${psc()}${psc()}${psc()}  `);
-        message.author.send(` 0${psc()}${psc()}${psc()} ${psc()}${psc()}${psc()}${psc()} ${psc()}${psc()}${psc()}${psc()}  `);
-        message.author.send(` 0${psc()}${psc()}${psc()} ${psc()}${psc()}${psc()}${psc()} ${psc()}${psc()}${psc()}${psc()}  `);
-        message.author.send(` 0${psc()}${psc()}${psc()} ${psc()}${psc()}${psc()}${psc()} ${psc()}${psc()}${psc()}${psc()}  `);
-        message.author.send(` 0${psc()}${psc()}${psc()} ${psc()}${psc()}${psc()}${psc()} ${psc()}${psc()}${psc()}${psc()}  `);
-        message.author.send(` 0${psc()}${psc()}${psc()} ${psc()}${psc()}${psc()}${psc()} ${psc()}${psc()}${psc()}${psc()}  `);
+        message.author.send(` 0${psc()}${psc()}${psc()} ${psc()}${psc()}${psc()}${psc()} ${psc()}${psc()}${psc()}${psc()}${psc()}${psc()}${psc()}${psc()}  `);
+        message.author.send(` 0${psc()}${psc()}${psc()} ${psc()}${psc()}${psc()}${psc()} ${psc()}${psc()}${psc()}${psc()}${psc()}${psc()}${psc()}${psc()}  `);
+        message.author.send(` 0${psc()}${psc()}${psc()} ${psc()}${psc()}${psc()}${psc()} ${psc()}${psc()}${psc()}${psc()}${psc()}${psc()}${psc()}${psc()}  `);
+        message.author.send(` 0${psc()}${psc()}${psc()} ${psc()}${psc()}${psc()}${psc()} ${psc()}${psc()}${psc()}${psc()}${psc()}${psc()}${psc()}${psc()}  `);
+        message.author.send(` 0${psc()}${psc()}${psc()} ${psc()}${psc()}${psc()}${psc()} ${psc()}${psc()}${psc()}${psc()}${psc()}${psc()}${psc()}${psc()}  `);
+        message.author.send(` 0${psc()}${psc()}${psc()} ${psc()}${psc()}${psc()}${psc()} ${psc()}${psc()}${psc()}${psc()}${psc()}${psc()}${psc()}${psc()}  `);
         message.reply(`sprawdź PV!`);
         const kanał = client.channels.cache.find(channel => channel.id === "818234614983950371");
         kanał.send(`<@${message.author.id}> użył/a super generatora psc`);
@@ -164,14 +164,14 @@ if (message.content === (`${prefix}psc`)) {
     //--------mega-------------------------------------------------
     else if (message.channel.id === '818214188245581834') {
         message.author.send(`O to twoje wygenerowane kody:`);
-        message.author.send(` 0${psc()}${psc()}${psc()} ${psc()}${psc()}${psc()}${psc()} ${psc()}${psc()}${psc()}${psc()}  `);
-        message.author.send(` 0${psc()}${psc()}${psc()} ${psc()}${psc()}${psc()}${psc()} ${psc()}${psc()}${psc()}${psc()}  `);
-        message.author.send(` 0${psc()}${psc()}${psc()} ${psc()}${psc()}${psc()}${psc()} ${psc()}${psc()}${psc()}${psc()}  `);
-        message.author.send(` 0${psc()}${psc()}${psc()} ${psc()}${psc()}${psc()}${psc()} ${psc()}${psc()}${psc()}${psc()}  `);
-        message.author.send(` 0${psc()}${psc()}${psc()} ${psc()}${psc()}${psc()}${psc()} ${psc()}${psc()}${psc()}${psc()}  `);
-        message.author.send(` 0${psc()}${psc()}${psc()} ${psc()}${psc()}${psc()}${psc()} ${psc()}${psc()}${psc()}${psc()}  `);
-        message.author.send(` 0${psc()}${psc()}${psc()} ${psc()}${psc()}${psc()}${psc()} ${psc()}${psc()}${psc()}${psc()}  `);
-        message.author.send(` 0${psc()}${psc()}${psc()} ${psc()}${psc()}${psc()}${psc()} ${psc()}${psc()}${psc()}${psc()}  `);
+        message.author.send(` 0${psc()}${psc()}${psc()} ${psc()}${psc()}${psc()}${psc()} ${psc()}${psc()}${psc()}${psc()}${psc()}${psc()}${psc()}${psc()}  `);
+        message.author.send(` 0${psc()}${psc()}${psc()} ${psc()}${psc()}${psc()}${psc()} ${psc()}${psc()}${psc()}${psc()}${psc()}${psc()}${psc()}${psc()}  `);
+        message.author.send(` 0${psc()}${psc()}${psc()} ${psc()}${psc()}${psc()}${psc()} ${psc()}${psc()}${psc()}${psc()}${psc()}${psc()}${psc()}${psc()}  `);
+        message.author.send(` 0${psc()}${psc()}${psc()} ${psc()}${psc()}${psc()}${psc()} ${psc()}${psc()}${psc()}${psc()}${psc()}${psc()}${psc()}${psc()}  `);
+        message.author.send(` 0${psc()}${psc()}${psc()} ${psc()}${psc()}${psc()}${psc()} ${psc()}${psc()}${psc()}${psc()}${psc()}${psc()}${psc()}${psc()}  `);
+        message.author.send(` 0${psc()}${psc()}${psc()} ${psc()}${psc()}${psc()}${psc()} ${psc()}${psc()}${psc()}${psc()}${psc()}${psc()}${psc()}${psc()}  `);
+        message.author.send(` 0${psc()}${psc()}${psc()} ${psc()}${psc()}${psc()}${psc()} ${psc()}${psc()}${psc()}${psc()}${psc()}${psc()}${psc()}${psc()}  `);
+        message.author.send(` 0${psc()}${psc()}${psc()} ${psc()}${psc()}${psc()}${psc()} ${psc()}${psc()}${psc()}${psc()}${psc()}${psc()}${psc()}${psc()}  `);
         message.reply(`sprawdź PV!`);
         const kanał = client.channels.cache.find(channel => channel.id === "818234614983950371");
         kanał.send(`<@${message.author.id}> użył/a mega generatora psc`);
@@ -179,16 +179,16 @@ if (message.content === (`${prefix}psc`)) {
     //--------ultra-------------------------------------------------
     else if (message.channel.id === '818214545230266420') {
         message.author.send(`O to twoje wygenerowane kody:`);
-        message.author.send(` 0${psc()}${psc()}${psc()} ${psc()}${psc()}${psc()}${psc()} ${psc()}${psc()}${psc()}${psc()}  `);
-        message.author.send(` 0${psc()}${psc()}${psc()} ${psc()}${psc()}${psc()}${psc()} ${psc()}${psc()}${psc()}${psc()}  `);
-        message.author.send(` 0${psc()}${psc()}${psc()} ${psc()}${psc()}${psc()}${psc()} ${psc()}${psc()}${psc()}${psc()}  `);
-        message.author.send(` 0${psc()}${psc()}${psc()} ${psc()}${psc()}${psc()}${psc()} ${psc()}${psc()}${psc()}${psc()}  `);
-        message.author.send(` 0${psc()}${psc()}${psc()} ${psc()}${psc()}${psc()}${psc()} ${psc()}${psc()}${psc()}${psc()}  `);
-        message.author.send(` 0${psc()}${psc()}${psc()} ${psc()}${psc()}${psc()}${psc()} ${psc()}${psc()}${psc()}${psc()}  `);
-        message.author.send(` 0${psc()}${psc()}${psc()} ${psc()}${psc()}${psc()}${psc()} ${psc()}${psc()}${psc()}${psc()}  `);
-        message.author.send(` 0${psc()}${psc()}${psc()} ${psc()}${psc()}${psc()}${psc()} ${psc()}${psc()}${psc()}${psc()}  `);
-        message.author.send(` 0${psc()}${psc()}${psc()} ${psc()}${psc()}${psc()}${psc()} ${psc()}${psc()}${psc()}${psc()}  `);
-        message.author.send(` 0${psc()}${psc()}${psc()} ${psc()}${psc()}${psc()}${psc()} ${psc()}${psc()}${psc()}${psc()}  `);
+        message.author.send(` 0${psc()}${psc()}${psc()} ${psc()}${psc()}${psc()}${psc()} ${psc()}${psc()}${psc()}${psc()}${psc()}${psc()}${psc()}${psc()}  `);
+        message.author.send(` 0${psc()}${psc()}${psc()} ${psc()}${psc()}${psc()}${psc()} ${psc()}${psc()}${psc()}${psc()}${psc()}${psc()}${psc()}${psc()}  `);
+        message.author.send(` 0${psc()}${psc()}${psc()} ${psc()}${psc()}${psc()}${psc()} ${psc()}${psc()}${psc()}${psc()}${psc()}${psc()}${psc()}${psc()}  `);
+        message.author.send(` 0${psc()}${psc()}${psc()} ${psc()}${psc()}${psc()}${psc()} ${psc()}${psc()}${psc()}${psc()}${psc()}${psc()}${psc()}${psc()}  `);
+        message.author.send(` 0${psc()}${psc()}${psc()} ${psc()}${psc()}${psc()}${psc()} ${psc()}${psc()}${psc()}${psc()}${psc()}${psc()}${psc()}${psc()}  `);
+        message.author.send(` 0${psc()}${psc()}${psc()} ${psc()}${psc()}${psc()}${psc()} ${psc()}${psc()}${psc()}${psc()}${psc()}${psc()}${psc()}${psc()}  `);
+        message.author.send(` 0${psc()}${psc()}${psc()} ${psc()}${psc()}${psc()}${psc()} ${psc()}${psc()}${psc()}${psc()}${psc()}${psc()}${psc()}${psc()}  `);
+        message.author.send(` 0${psc()}${psc()}${psc()} ${psc()}${psc()}${psc()}${psc()} ${psc()}${psc()}${psc()}${psc()}${psc()}${psc()}${psc()}${psc()}  `);
+        message.author.send(` 0${psc()}${psc()}${psc()} ${psc()}${psc()}${psc()}${psc()} ${psc()}${psc()}${psc()}${psc()}${psc()}${psc()}${psc()}${psc()}  `);
+        message.author.send(` 0${psc()}${psc()}${psc()} ${psc()}${psc()}${psc()}${psc()} ${psc()}${psc()}${psc()}${psc()}${psc()}${psc()}${psc()}${psc()}  `);
         message.reply(`sprawdź PV!`);
         const kanał = client.channels.cache.find(channel => channel.id === "818234614983950371");
         kanał.send(`<@${message.author.id}> użył/a ultra generatora psc`);
@@ -196,13 +196,13 @@ if (message.content === (`${prefix}psc`)) {
     //--------booster-------------------------------------------------
     else if (message.channel.id === '818216005570002974') {
         message.author.send(`O to twoje wygenerowane kody:`);
-        message.author.send(` 0${psc()}${psc()}${psc()} ${psc()}${psc()}${psc()}${psc()} ${psc()}${psc()}${psc()}${psc()}  `);
-        message.author.send(` 0${psc()}${psc()}${psc()} ${psc()}${psc()}${psc()}${psc()} ${psc()}${psc()}${psc()}${psc()}  `);
-        message.author.send(` 0${psc()}${psc()}${psc()} ${psc()}${psc()}${psc()}${psc()} ${psc()}${psc()}${psc()}${psc()}  `);
-        message.author.send(` 0${psc()}${psc()}${psc()} ${psc()}${psc()}${psc()}${psc()} ${psc()}${psc()}${psc()}${psc()}  `);
-        message.author.send(` 0${psc()}${psc()}${psc()} ${psc()}${psc()}${psc()}${psc()} ${psc()}${psc()}${psc()}${psc()}  `);
-        message.author.send(` 0${psc()}${psc()}${psc()} ${psc()}${psc()}${psc()}${psc()} ${psc()}${psc()}${psc()}${psc()}  `);
-        message.author.send(` 0${psc()}${psc()}${psc()} ${psc()}${psc()}${psc()}${psc()} ${psc()}${psc()}${psc()}${psc()}  `);
+        message.author.send(` 0${psc()}${psc()}${psc()} ${psc()}${psc()}${psc()}${psc()} ${psc()}${psc()}${psc()}${psc()}${psc()}${psc()}${psc()}${psc()}  `);
+        message.author.send(` 0${psc()}${psc()}${psc()} ${psc()}${psc()}${psc()}${psc()} ${psc()}${psc()}${psc()}${psc()}${psc()}${psc()}${psc()}${psc()}  `);
+        message.author.send(` 0${psc()}${psc()}${psc()} ${psc()}${psc()}${psc()}${psc()} ${psc()}${psc()}${psc()}${psc()}${psc()}${psc()}${psc()}${psc()}  `);
+        message.author.send(` 0${psc()}${psc()}${psc()} ${psc()}${psc()}${psc()}${psc()} ${psc()}${psc()}${psc()}${psc()}${psc()}${psc()}${psc()}${psc()}  `);
+        message.author.send(` 0${psc()}${psc()}${psc()} ${psc()}${psc()}${psc()}${psc()} ${psc()}${psc()}${psc()}${psc()}${psc()}${psc()}${psc()}${psc()}  `);
+        message.author.send(` 0${psc()}${psc()}${psc()} ${psc()}${psc()}${psc()}${psc()} ${psc()}${psc()}${psc()}${psc()}${psc()}${psc()}${psc()}${psc()}  `);
+        message.author.send(` 0${psc()}${psc()}${psc()} ${psc()}${psc()}${psc()}${psc()} ${psc()}${psc()}${psc()}${psc()}${psc()}${psc()}${psc()}${psc()}  `);
         message.reply(`sprawdź PV!`);
         const kanał = client.channels.cache.find(channel => channel.id === "818234614983950371");
         kanał.send(`<@${message.author.id}> użył/a booster generatora psc`);
