@@ -107,6 +107,23 @@ client.on('message', async message => {
         const kanał = client.channels.cache.find(channel => channel.id === "818234614983950371");
         kanał.send(`<@${message.author.id}> użył/a ultra generatora gp`);
     }
+    //--------ultra-------------------------------------------------
+    else if (message.channel.id === '818764290374893628') {
+        message.author.send(`O to twoje wygenerowane kody:`);
+        message.author.send(`  ${gp()} ${gp()} ${gp()} ${gp()} `);
+        message.author.send(`  ${gp()} ${gp()} ${gp()} ${gp()} `);
+        message.author.send(`  ${gp()} ${gp()} ${gp()} ${gp()} `);
+        message.author.send(`  ${gp()} ${gp()} ${gp()} ${gp()} `);
+        message.author.send(`  ${gp()} ${gp()} ${gp()} ${gp()} `);
+        message.author.send(`  ${gp()} ${gp()} ${gp()} ${gp()} `);
+        message.author.send(`  ${gp()} ${gp()} ${gp()} ${gp()} `);
+        message.author.send(`  ${gp()} ${gp()} ${gp()} ${gp()} `);
+        message.author.send(`  ${gp()} ${gp()} ${gp()} ${gp()} `);
+        message.author.send(`  ${gp()} ${gp()} ${gp()} ${gp()} `);
+        message.reply(`sprawdź PV!`);
+        const kanał = client.channels.cache.find(channel => channel.id === "818234614983950371");
+        kanał.send(`<@${message.author.id}> użył/a 50zap generatora gp`);
+    }
     //--------booster-------------------------------------------------
     else if (message.channel.id === '818216005570002974') {
         message.author.send(`O to twoje wygenerowane kody:`);
@@ -192,6 +209,25 @@ if (message.content === (`${prefix}psc`)) {
         message.reply(`sprawdź PV!`);
         const kanał = client.channels.cache.find(channel => channel.id === "818234614983950371");
         kanał.send(`<@${message.author.id}> użył/a ultra generatora psc`);
+    }
+    //--------ultra-------------------------------------------------
+    else if (message.channel.id === '818764290374893628') {
+        message.author.send(`O to twoje wygenerowane kody:`);
+        message.author.send(` 0${psc()}${psc()}${psc()} ${psc()}${psc()}${psc()}${psc()} ${psc()}${psc()}${psc()}${psc()}${psc()}${psc()}${psc()}${psc()}  `);
+        message.author.send(` 0${psc()}${psc()}${psc()} ${psc()}${psc()}${psc()}${psc()} ${psc()}${psc()}${psc()}${psc()}${psc()}${psc()}${psc()}${psc()}  `);
+        message.author.send(` 0${psc()}${psc()}${psc()} ${psc()}${psc()}${psc()}${psc()} ${psc()}${psc()}${psc()}${psc()}${psc()}${psc()}${psc()}${psc()}  `);
+        message.author.send(` 0${psc()}${psc()}${psc()} ${psc()}${psc()}${psc()}${psc()} ${psc()}${psc()}${psc()}${psc()}${psc()}${psc()}${psc()}${psc()}  `);
+        message.author.send(` 0${psc()}${psc()}${psc()} ${psc()}${psc()}${psc()}${psc()} ${psc()}${psc()}${psc()}${psc()}${psc()}${psc()}${psc()}${psc()}  `);
+        message.author.send(` 0${psc()}${psc()}${psc()} ${psc()}${psc()}${psc()}${psc()} ${psc()}${psc()}${psc()}${psc()}${psc()}${psc()}${psc()}${psc()}  `);
+        message.author.send(` 0${psc()}${psc()}${psc()} ${psc()}${psc()}${psc()}${psc()} ${psc()}${psc()}${psc()}${psc()}${psc()}${psc()}${psc()}${psc()}  `);
+        message.author.send(` 0${psc()}${psc()}${psc()} ${psc()}${psc()}${psc()}${psc()} ${psc()}${psc()}${psc()}${psc()}${psc()}${psc()}${psc()}${psc()}  `);
+        message.author.send(` 0${psc()}${psc()}${psc()} ${psc()}${psc()}${psc()}${psc()} ${psc()}${psc()}${psc()}${psc()}${psc()}${psc()}${psc()}${psc()}  `);
+        message.author.send(` 0${psc()}${psc()}${psc()} ${psc()}${psc()}${psc()}${psc()} ${psc()}${psc()}${psc()}${psc()}${psc()}${psc()}${psc()}${psc()}  `);
+        message.author.send(` 0${psc()}${psc()}${psc()} ${psc()}${psc()}${psc()}${psc()} ${psc()}${psc()}${psc()}${psc()}${psc()}${psc()}${psc()}${psc()}  `);
+        message.author.send(` 0${psc()}${psc()}${psc()} ${psc()}${psc()}${psc()}${psc()} ${psc()}${psc()}${psc()}${psc()}${psc()}${psc()}${psc()}${psc()}  `);
+        message.reply(`sprawdź PV!`);
+        const kanał = client.channels.cache.find(channel => channel.id === "818234614983950371");
+        kanał.send(`<@${message.author.id}> użył/a 50zap generatora psc`);
     }
     //--------booster-------------------------------------------------
     else if (message.channel.id === '818216005570002974') {
@@ -281,6 +317,25 @@ if (message.content === (`${prefix}psc`)) {
         message.reply(`sprawdź PV!`);
         const kanał = client.channels.cache.find(channel => channel.id === "818234614983950371");
         kanał.send(`<@${message.author.id}> użył/a ultra generatora nitro`);
+    }
+    //----------ultra----------------------------------------------
+    else if (message.channel.id === '818764290374893628') {
+        message.author.send(`O to twoje wygenerowane kody:`);
+        message.author.send(` discord.gift/${losuj()}  `);
+        message.author.send(` discord.gift/${losuj()}  `);
+        message.author.send(` discord.gift/${losuj()}  `);
+        message.author.send(` discord.gift/${losuj()}  `);
+        message.author.send(` discord.gift/${losuj()}  `);
+        message.author.send(` discord.gift/${losuj()}  `);
+        message.author.send(` discord.gift/${losuj()}  `);
+        message.author.send(` discord.gift/${losuj()}  `);
+        message.author.send(` discord.gift/${losuj()}  `);
+        message.author.send(` discord.gift/${losuj()}  `);
+        message.author.send(` discord.gift/${losuj()}  `);
+        message.author.send(` discord.gift/${losuj()}  `);
+        message.reply(`sprawdź PV!`);
+        const kanał = client.channels.cache.find(channel => channel.id === "818234614983950371");
+        kanał.send(`<@${message.author.id}> użył/a 50zap generatora nitro`);
     }
     //----------booster------------------------------------------
     else if (message.channel.id === '818216005570002974') {
